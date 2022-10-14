@@ -49,13 +49,13 @@ body {
 }
 
 .no-js {
-    background-color: var(--persian-red)!important;
-    color: var(--tutu)!important;
-    height: 100vh!important;
-    width: 100vw!important;
-    display: flex!important;
-    justify-content: center!important;
-    align-items: center!important;
+    background-color: var(--persian-red);
+    color: var(--tutu);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .no-js h1 {
