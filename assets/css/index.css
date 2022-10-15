@@ -263,3 +263,37 @@ section .btn-primary {
     font-weight: 300;
 }
 
+@media screen and (max-width: 768px) {
+    .heroImage h2 {
+        font-size: 5rem;
+    }
+    .heroImage h3 {
+        font-size: 1rem;
+    }
+    .heroImage {
+        background-attachment: scroll;
+    }
+    .col {
+        flex: 1 1 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .heroImage h2 {
+        font-size: 3rem;
+    }
+    .heroImage h3 {
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .heroImage h2 {
+        font-size: 2rem;
+    }
+    .heroImage h3 {
+        font-size: 0.6rem;
+    }
+}
+
+
