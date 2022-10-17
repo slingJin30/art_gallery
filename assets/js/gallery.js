@@ -17,6 +17,42 @@ const galleryImages = {
             title: 'Warrior',
             description: 'For the warrior in you',
             artist: "F.A.K.E."
+        },
+        {
+            src: '../assets/img/gallery_images/evilEyes.png',
+            alt: 'Evil Eyes',
+            width: 300,
+            height: 300,
+            title: 'Evil Eyes',
+            description: 'For the eyes that see evil',
+            artist: "F.A.K.E."
+        },
+        {
+            src: '../assets/img/gallery_images/warrior.png',
+            alt: 'Warrior',
+            width: 300,
+            height: 300,
+            title: 'Warrior',
+            description: 'For the warrior in you',
+            artist: "F.A.K.E."
+        },
+        {
+            src: '../assets/img/gallery_images/evilEyes.png',
+            alt: 'Evil Eyes',
+            width: 300,
+            height: 300,
+            title: 'Evil Eyes',
+            description: 'For the eyes that see evil',
+            artist: "F.A.K.E."
+        },
+        {
+            src: '../assets/img/gallery_images/warrior.png',
+            alt: 'Warrior',
+            width: 300,
+            height: 300,
+            title: 'Warrior',
+            description: 'For the warrior in you',
+            artist: "F.A.K.E."
         }
     ]
 };
