@@ -196,45 +196,9 @@ section .btn-primary {
     z-index: 100;
 }
 
-.heroImage h3 {
-    color: var(--tutu);
-    font-size: 1.5rem;
-    font-weight: 300;
-    margin-bottom: 20px;
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: var(--mine-shaft);
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
-    z-index: 100;
-    margin-top: 5rem;
-    border-top-right-radius: 1rem;
-    border-bottom-left-radius: 1rem;
+.strike-text {
+    text-decoration: line-through !important;
 }
-
-.techUsed p {
-    font-size: 0.8rem;
-    font-weight: 300;
-    margin-bottom: 10px;
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .license {
     font-size: 0.8rem;
@@ -267,12 +231,15 @@ section .btn-primary {
     .heroImage h2 {
         font-size: 5rem;
     }
+
     .heroImage h3 {
         font-size: 1rem;
     }
+
     .heroImage {
         background-attachment: scroll;
     }
+
     .col {
         flex: 1 1 100%;
     }
@@ -282,6 +249,7 @@ section .btn-primary {
     .heroImage h2 {
         font-size: 3rem;
     }
+
     .heroImage h3 {
         font-size: 0.8rem;
     }
@@ -291,9 +259,8 @@ section .btn-primary {
     .heroImage h2 {
         font-size: 2rem;
     }
+
     .heroImage h3 {
         font-size: 0.6rem;
     }
 }
-
-
