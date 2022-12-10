@@ -1,58 +1,22 @@
 const galleryImages = {
     images: [
         {
-            src: '../assets/img/gallery_images/evilEyes.png',
-            alt: 'Evil Eyes',
+            src: 'https://via.placeholder.com/300',
+            alt: 'An example placeholder image 300x300',
             width: 300,
             height: 300,
-            title: 'Evil Eyes',
-            description: 'For the eyes that see evil',
-            artist: "F.A.K.E."
+            title: 'Image Tile',
+            description: 'Image Description',
+            artist: "Image Artist"
         },
         {
-            src: '../assets/img/gallery_images/warrior.png',
-            alt: 'Warrior',
+            src: 'https://via.placeholder.com/300',
+            alt: 'An example placeholder image 300x300',
             width: 300,
             height: 300,
-            title: 'Warrior',
-            description: 'For the warrior in you',
-            artist: "F.A.K.E."
-        },
-        {
-            src: '../assets/img/gallery_images/evilEyes.png',
-            alt: 'Evil Eyes',
-            width: 300,
-            height: 300,
-            title: 'Evil Eyes',
-            description: 'For the eyes that see evil',
-            artist: "F.A.K.E."
-        },
-        {
-            src: '../assets/img/gallery_images/warrior.png',
-            alt: 'Warrior',
-            width: 300,
-            height: 300,
-            title: 'Warrior',
-            description: 'For the warrior in you',
-            artist: "F.A.K.E."
-        },
-        {
-            src: '../assets/img/gallery_images/evilEyes.png',
-            alt: 'Evil Eyes',
-            width: 300,
-            height: 300,
-            title: 'Evil Eyes',
-            description: 'For the eyes that see evil',
-            artist: "F.A.K.E."
-        },
-        {
-            src: '../assets/img/gallery_images/warrior.png',
-            alt: 'Warrior',
-            width: 300,
-            height: 300,
-            title: 'Warrior',
-            description: 'For the warrior in you',
-            artist: "F.A.K.E."
+            title: 'Image Title',
+            description: 'Image Description',
+            artist: "Image Artist"
         }
     ]
 };
